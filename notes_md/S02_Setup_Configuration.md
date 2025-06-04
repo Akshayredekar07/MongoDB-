@@ -1,7 +1,7 @@
 
 
 GUI Tools for MongoDB Operations: 
---------------------------------- 
+---
 
 Upto this we performed the database operations by using mongo shell. 
 The advantage of using shell is we have to do everything so that 
@@ -11,12 +11,12 @@ But in real time usage of shell is not recommended because of the following reas
 
 1. Auto completion is not available. We have to type complete 
 command. 
-2. While writing complex queries, more error prone. 
-3. No help tips 
-4. Readability is not up to the mark. 
-5. No coloring 
-6. Operations will become very complex 
-7. Not that much convenient to use etc
+1. While writing complex queries, more error prone. 
+2. No help tips 
+3. Readability is not up to the mark. 
+4. No coloring 
+5. Operations will become very complex 
+6. Not that much convenient to use etc
 
 To overcome these problems we have to use GUI based tools like   
 1. Robo 3T   
